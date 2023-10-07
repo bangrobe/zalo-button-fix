@@ -55,7 +55,6 @@ function register_zalo_button()
 			font-size: 12px;
 			padding: 0px;
 			bottom: 50px;
-			
 			animation: zalo 1000ms infinite;
 			z-index: 999999999;
 		}
